@@ -1,35 +1,32 @@
 <application>
-  <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="10.9.0" last-modified="1536163583000" />
-    </local-interpreter>
-    <local-interpreter path="/usr/local/Cellar/node/10.9.0/bin/node" />
+  <component name="OCRunConfigurationsSettings">
+    <option name="STOP_RUNNING_SESSION_AUTOMATICALLY" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6336336" />
-    <property name="ExpandBeforeRunStepsPanel" value="true" />
-    <property name="ExpandRunDashboardTypesPanel" value="false" />
-    <property name="ExternalToolDialog.advanced.expanded" value="true" />
-    <property name="RD.Init.Cfg.2" value="true" />
-    <property name="RD.Init.DialogShown.Ide" value="true" />
-    <property name="Rider.ProjectTemplateDialog.Splitter" value="0.38875" />
-    <property name="SettingsSearchHistory" value="backspa" />
-    <property name="evlsprt.182" value="1662d098526" />
-    <property name="evlsprt.183" value="1693c519422" />
-    <property name="evlsprt2.182" value="1662b4d8281" />
-    <property name="evlsprt2.183" value="168f758b701" />
-    <property name="evlsprt3.182" value="15" />
-    <property name="evlsprt3.183" value="14" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/Git/App-Demo-Azure-Event-Hub/EventHubSender/EventHub.Senders.sln&#10;/Users/mendesbarreto/Git/App-Demo-Azure-Event-Hub/EventHubReceiver/EventHub.Receivers.sln&#10;/Users/mendesbarreto/Git/App-Demo-Azure-Event-Hub/EventHubSender/WiredBrainCoffee.MachineSimulator.sln&#10;/Users/mendesbarreto/Git/App-Demo-Azure-Event-Hub/EventHubReceiver/WiredBrainCoffee.EventHub.Receiver.sln&#10;/Applications/Firefox Developer Edition.app&#10;/Users/mendesbarreto/Git/TestMakerWebApp" />
-    <property name="file.gist.reindex.count" value="9" />
-    <property name="fileTypeChangedCounter" value="11" />
-    <property name="ignoreUltimateEdition" value="true" />
-    <property name="js.chrome.debugger.port.98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" value="65482" />
-    <property name="last_open_solution_path" value="$USER_HOME$/Git/App-Demo-Azure-Event-Hub/EventHubSender" />
-    <property name="last_selected_template" value="Application|Xamarin" />
-    <property name="last_selected_template_parameters" value="Type=with Angular;Language=C#;Framework=netcoreapp2.1;" />
-    <property name="settings.code.style.selected.tab.C#" value="Naming" />
-    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.5313283" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="NewXcodeProject.Left" value="iOS.Application" />
+    <property name="NewXcodeProject.Right" value="Single View App" />
+    <property name="SettingsSearchHistory" value="Pre" />
+    <property name="SplitFileEditor.Proportion" value="0.4899857" />
+    <property name="XDebuggerExpressionEditor_Use_Soft_Wraps" value="true" />
+    <property name="evlsprt.182" value="166c5ccdd89" />
+    <property name="evlsprt.183" value="16816d42195" />
+    <property name="evlsprt2.182" value="166b73d0972" />
+    <property name="evlsprt2.183" value="167c25d0713" />
+    <property name="evlsprt3.182" value="11" />
+    <property name="evlsprt3.183" value="18" />
+    <property name="file.gist.reindex.count" value="988" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="lastTip" value="53" />
     <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+  <component name="XcodeSettings">
+    <option name="selectedXcode" value="/Applications/Xcode.app/Contents/Developer" />
+    <option name="detectedXcodes">
+      <list>
+        <option value="/Applications/Xcode.app/Contents/Developer" />
+      </list>
+    </option>
   </component>
 </application>
