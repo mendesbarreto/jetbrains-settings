@@ -1,32 +1,23 @@
 <application>
-  <component name="OCRunConfigurationsSettings">
-    <option name="STOP_RUNNING_SESSION_AUTOMATICALLY" value="true" />
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/11.10.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v11.2.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v10.13.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.12.0/bin/node" />
   </component>
   <component name="PropertiesComponent">
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.5313283" />
-    <property name="MemberChooser.showClasses" value="true" />
-    <property name="NewXcodeProject.Left" value="iOS.Application" />
-    <property name="NewXcodeProject.Right" value="Single View App" />
-    <property name="SettingsSearchHistory" value="Pre" />
-    <property name="SplitFileEditor.Proportion" value="0.4899857" />
-    <property name="XDebuggerExpressionEditor_Use_Soft_Wraps" value="true" />
-    <property name="evlsprt.182" value="166c5ccdd89" />
-    <property name="evlsprt.183" value="16816d42195" />
-    <property name="evlsprt2.182" value="166b73d0972" />
-    <property name="evlsprt2.183" value="167c25d0713" />
-    <property name="evlsprt3.182" value="11" />
+    <property name="$USER_HOME$/.rbenv/versions/2.5.1/bin/ruby:BASE_20" value="0.2.3.beta3" />
+    <property name="$USER_HOME$/.rbenv/versions/2.5.1/bin/ruby:IDE" value="0.7.0.beta7" />
+    <property name="$USER_HOME$/.rbenv/versions/2.6.1/bin/ruby:BASE_20" value="0.2.3.beta3" />
+    <property name="$USER_HOME$/.rbenv/versions/2.6.1/bin/ruby:IDE" value="0.7.0.beta7" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="Ruby.initialConfigurationShown" value="true" />
+    <property name="RubyMine.full.reindex.required" value="1" />
     <property name="evlsprt3.183" value="18" />
-    <property name="file.gist.reindex.count" value="988" />
-    <property name="fileTypeChangedCounter" value="1" />
-    <property name="lastTip" value="53" />
+    <property name="file.gist.reindex.count" value="461" />
     <property name="ts.lib.d.ts.version" value="3.2.1" />
-  </component>
-  <component name="XcodeSettings">
-    <option name="selectedXcode" value="/Applications/Xcode.app/Contents/Developer" />
-    <option name="detectedXcodes">
-      <list>
-        <option value="/Applications/Xcode.app/Contents/Developer" />
-      </list>
-    </option>
   </component>
 </application>
