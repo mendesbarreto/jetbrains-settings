@@ -1,28 +1,14 @@
 <application>
   <component name="PropertiesComponent">
-    <property name="ExpandBeforeRunStepsPanel" value="true" />
-    <property name="ExpandRunDashboardTypesPanel" value="false" />
-    <property name="InstalledPluginsSearchHistory" value="String Manipulation" />
-    <property name="KEYMAP" value="Impl&#10;imple" />
-    <property name="PluginConfigurable.selectionTab" value="1" />
-    <property name="RD.Init.Cfg.2" value="true" />
-    <property name="RD.Init.DialogShown.Ide" value="true" />
-    <property name="SettingsSearchHistory" value="sync&#10;const&#10;Imp&#10;font&#10;static" />
-    <property name="TrendingPluginsSearchHistory" value="Key Promoter X&#10;Rainglow Color Schemes&#10;String Manipulation&#10;C# lint&#10;Sonar" />
-    <property name="annotate.color.mode" value="order" />
-    <property name="annotate.short.names.type" value="firstname" />
-    <property name="evlsprt3.183" value="18" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/Git/BC_MasterDataRepository/Prod-Pc/003Q/IAFG.IA.BC.ProdPc.003Q.sln&#10;C:/Users/LI26GX/Git/BC_MasterDataRepository/MicroServices/Hosts/BCMWPNH7/IAFG.IA.BC.BCMWPNH7.ServiceHost.sln&#10;C:/Users/LI26GX/Git/BC_MasterDataRepository/Services/Hosts/BCMWPNH1/IAFG.IA.BC.BCMWPNH2.ServiceHost.sln&#10;C:/Users/LI26GX/Git/BC_MasterDataRepository/MicroServices/Hosts/BCMWPNH3/IAFG.IA.BC.BCMWPNH3.ServiceHost.sln&#10;C:/Users/LI26GX/Git/App-Demo-Azure-Event-Hub/EventHubReceiver/EventHub.Receivers.sln" />
-    <property name="file.gist.reindex.count" value="8" />
-    <property name="ignoreUltimateEdition" value="true" />
-    <property name="last_open_file_path" value="$USER_HOME$/Git/BC_MasterDataRepository/Prod-Pc/003Q" />
-    <property name="last_open_solution_path" value="$USER_HOME$/Git/BC_MasterDataRepository/Prod-Pc/003Q" />
-    <property name="selected.color.option.type" value="DEFAULT_CONSTANT" />
-    <property name="settings.code.style.selected.tab.C#" value="Other" />
-    <property name="show.vcs.annotation.aspect.Author" value="true" />
-    <property name="show.vcs.annotation.aspect.Commit number" value="true" />
-    <property name="show.vcs.annotation.aspect.Revision" value="true" />
-    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
-    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="evlsprt3.183" value="14" />
+    <property name="fileTypeChangedCounter" value="1" />
   </component>
 </application>
