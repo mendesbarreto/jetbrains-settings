@@ -38,7 +38,7 @@
           <IdeaActionID>ActivateExplorerToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Explorer</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Documentation">
@@ -54,7 +54,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>21</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Solution or Project...">
