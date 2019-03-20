@@ -22,7 +22,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>102</Count>
+          <Count>106</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -70,7 +70,7 @@
           <IdeaActionID>RiderOpenSolution</IdeaActionID>
           <ShortCut>'Ctrl+Maj+O'</ShortCut>
           <Description>Solution or Project...</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
