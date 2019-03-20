@@ -9,6 +9,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Build Solution">
+        <Item>
+          <IdeaActionID>BuildSolutionAction</IdeaActionID>
+          <ShortCut>'Ctrl+F9'</ShortCut>
+          <Description>Build Solution</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Cancel">
         <Item>
           <IdeaActionID>BuildSolutionAction</IdeaActionID>
@@ -62,7 +70,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Solution or Project...">
