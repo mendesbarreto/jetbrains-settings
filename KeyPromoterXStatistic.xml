@@ -38,7 +38,7 @@
           <IdeaActionID>ActivateExplorerToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Explorer</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Action...">
@@ -94,7 +94,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
     </option>
