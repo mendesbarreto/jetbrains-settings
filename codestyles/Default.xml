@@ -1,1 +1,12 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default" version="173">
+  <Objective-C>
+    <option name="SEMICOLON_AFTER_METHOD_SIGNATURE" value="true" />
+  </Objective-C>
+  <Objective-C-extensions>
+    <extensions>
+      <pair source="cpp" header="h" fileNamingConvention="CAMEL_CASE" />
+      <pair source="cpp" header="h" fileNamingConvention="NONE" />
+      <pair source="c" header="h" fileNamingConvention="NONE" />
+    </extensions>
+  </Objective-C-extensions>
+</code_scheme>
