@@ -70,7 +70,7 @@
           <IdeaActionID>GotoAction</IdeaActionID>
           <ShortCut>'Ctrl+Maj+A'</ShortCut>
           <Description>Find Action...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Documentation">
@@ -126,7 +126,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Default'</Description>
-          <Count>36</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
