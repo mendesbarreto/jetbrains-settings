@@ -33,6 +33,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy Path">
+        <Item>
+          <IdeaActionID>CopyPaths</IdeaActionID>
+          <ShortCut>'Ctrl+Maj+C'</ShortCut>
+          <Description>Copy Path</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy Value">
         <Item>
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
@@ -65,12 +73,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Edit 'IAFG.IA.BC.P…odPc.014M.sln'">
+        <Item>
+          <IdeaActionID>RiderEditSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Edit 'IAFG.IA.BC.P…odPc.014M.sln'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Explorer">
         <Item>
           <IdeaActionID>ActivateExplorerToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Explorer</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Action...">
@@ -102,6 +118,14 @@
           <IdeaActionID>QuickJavaDoc</IdeaActionID>
           <ShortCut>'Ctrl+Q'</ShortCut>
           <Description>Quick Documentation</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rename...">
+        <Item>
+          <IdeaActionID>RenameRiderItem</IdeaActionID>
+          <ShortCut>'Maj+F6'</ShortCut>
+          <Description>Rename...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
