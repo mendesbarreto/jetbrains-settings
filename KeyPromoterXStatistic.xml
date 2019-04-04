@@ -150,7 +150,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>47</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Solution or Project...">
