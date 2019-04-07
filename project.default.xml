@@ -2,6 +2,9 @@
   <component name="ProjectManager">
     <defaultProject>
       <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="ics" />
+      </component>
     </defaultProject>
   </component>
 </application>
