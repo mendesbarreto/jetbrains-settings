@@ -1264,9 +1264,7 @@
       </excluded>
     </library>
     <library name="R Skeletons">
-      <CLASSES>
-        <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.3/r_skeletons/1481726564" />
-      </CLASSES>
+      <CLASSES />
       <SOURCES />
     </library>
     <library name="rack (v2.0.6, rbenv: 2.6.1) [gem]">
