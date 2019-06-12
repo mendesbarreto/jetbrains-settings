@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'C:\Users\li26gx\Git\BC_MasterDataRepository\Prod-Pc\Exe\BCMDPN31\BCMDPN31\BCMDPN31.csproj'" />
-    <option name="defaultScopeName" value="File 'C:\Users\li26gx\Git\BC_MasterDataRepository\Prod-Pc\Exe\BCMDPN31\BCMDPN31\BCMDPN31.csproj'" />
-    <option name="SEARCH_SCOPE" value="File 'C:\Users\li26gx\Git\BC_MasterDataRepository\Prod-Pc\Exe\BCMDPN31\BCMDPN31\BCMDPN31.csproj'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
   </component>
 </application>
