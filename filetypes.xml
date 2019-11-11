@@ -6,6 +6,7 @@
       <mapping ext="stencil" type="PLAIN_TEXT" />
       <mapping ext="xcfilelist" type="PLAIN_TEXT" />
       <mapping pattern="Fastfile" type="Podfile" />
+      <mapping ext="plist" type="XML" />
     </extensionMap>
   </component>
 </application>
