@@ -1,13 +1,14 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-09-24T21:56:48</property>
-    <property name="ide">AppCode</property>
-    <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-12-18T23:57:59</property>
+    <property name="created">2019-12-20T15:23:20</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">3.5.3.0</property>
+    <property name="modified">2019-12-20T15:28:38</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
     <option name="FILESTATUS_ADDED" value="c3e88d" />
+    <option name="FILESTATUS_COPIED" value="c3e88d" />
     <option name="FILESTATUS_DELETED" value="808080" />
     <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
@@ -16,72 +17,10 @@
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
-    <option name="FILESTATUS_SUPPRESSED" value="717cb4" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="FILESTATUS_SWITCHED" value="c792ea" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
   </colors>
-  <attributes>
-    <option name="DEFAULT_CLASS_NAME">
-      <value>
-        <option name="FOREGROUND" value="b7c6" />
-      </value>
-    </option>
-    <option name="DEFAULT_FUNCTION_CALL">
-      <value>
-        <option name="FOREGROUND" value="be3c91" />
-      </value>
-    </option>
-    <option name="DEFAULT_FUNCTION_DECLARATION">
-      <value>
-        <option name="FOREGROUND" value="be3c91" />
-      </value>
-    </option>
-    <option name="DEFAULT_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="c6bf58" />
-      </value>
-    </option>
-    <option name="DEFAULT_LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="c668bf" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="ERRORS_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="410002" />
-        <option name="BACKGROUND" value="9f0413" />
-        <option name="EFFECT_COLOR" value="bc3f3c" />
-        <option name="ERROR_STRIPE_COLOR" value="9e2927" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="SWIFT_EXTERNAL_PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="c4b3a3" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="SWIFT_LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="c6bb07" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="SWIFT_PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="30b5c6" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="WARNING_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="b2a71a" />
-        <option name="ERROR_STRIPE_COLOR" value="be9117" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-  </attributes>
 </scheme>
