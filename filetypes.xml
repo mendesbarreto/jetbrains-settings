@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="webp" type="Image" />
       <mapping pattern="JenkinsfilePROD" type="PLAIN_TEXT" />
       <mapping ext="stencil" type="PLAIN_TEXT" />
       <mapping ext="xcfilelist" type="PLAIN_TEXT" />
-      <mapping pattern="Fastfile" type="Podfile" />
       <mapping ext="plist" type="XML" />
+      <mapping pattern="Fastfile" type="Podfile" />
     </extensionMap>
   </component>
 </application>
