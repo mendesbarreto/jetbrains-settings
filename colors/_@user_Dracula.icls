@@ -4,7 +4,7 @@
     <property name="created">2020-07-13T10:05:55</property>
     <property name="ide">AppCode</property>
     <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2020-07-13T18:36:13</property>
+    <property name="modified">2020-07-14T12:38:15</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <console-font>
@@ -521,7 +521,7 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="FOREGROUND" value="f804" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
