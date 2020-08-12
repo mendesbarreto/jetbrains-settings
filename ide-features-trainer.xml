@@ -34,6 +34,7 @@
         <entry key="swift.rdt.debug" value="NOT_PASSED" />
         <entry key="swift.rdt.run" value="NOT_PASSED" />
         <entry key="swift.rdt.test" value="NOT_PASSED" />
+        <entry key="swift.refactorings.change.signature" value="NOT_PASSED" />
         <entry key="swift.refactorings.extract.closure" value="NOT_PASSED" />
         <entry key="swift.refactorings.extract.method" value="NOT_PASSED" />
         <entry key="swift.refactorings.extract.variable" value="NOT_PASSED" />
