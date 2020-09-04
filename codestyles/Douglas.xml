@@ -1,9 +1,18 @@
 <code_scheme name="Douglas" version="173">
+  <SwiftCodeStyleSettings>
+    <option name="PREFER_VOID" value="true" />
+    <option name="INDENT_DIRECTIVE_CHILDREN" value="true" />
+  </SwiftCodeStyleSettings>
   <codeStyleSettings language="Swift">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
+    <option name="WRAP_FIRST_METHOD_IN_CALL_CHAIN" value="true" />
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
   </codeStyleSettings>
 </code_scheme>

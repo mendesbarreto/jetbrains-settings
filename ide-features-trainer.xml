@@ -1,4 +1,11 @@
 <application>
+  <component name="GroupManager">
+    <option name="showTutorialsOnWelcomeFrame" value="true" />
+    <expandedByName>
+      <entry name="Tutorials" expanded="true" />
+      <entry name="Projects" expanded="true" />
+    </expandedByName>
+  </component>
   <component name="LangManager">
     <option name="languageName" value="Swift" />
   </component>
@@ -74,12 +81,15 @@
         <entry key="swift.editorbasics.move" value="NOT_PASSED" />
         <entry key="swift.editorbasics.multipleselections" value="NOT_PASSED" />
         <entry key="swift.editorbasics.selection" value="NOT_PASSED" />
+        <entry key="swift.navigation.bookmarks" value="NOT_PASSED" />
         <entry key="swift.navigation.code" value="NOT_PASSED" />
+        <entry key="swift.navigation.precise" value="NOT_PASSED" />
         <entry key="swift.navigation.search" value="NOT_PASSED" />
         <entry key="swift.navigation.toolwindows" value="NOT_PASSED" />
         <entry key="swift.rdt.debug" value="NOT_PASSED" />
         <entry key="swift.rdt.run" value="NOT_PASSED" />
         <entry key="swift.rdt.test" value="NOT_PASSED" />
+        <entry key="swift.refactorings.change.signature" value="NOT_PASSED" />
         <entry key="swift.refactorings.extract.closure" value="NOT_PASSED" />
         <entry key="swift.refactorings.extract.method" value="NOT_PASSED" />
         <entry key="swift.refactorings.extract.variable" value="NOT_PASSED" />
