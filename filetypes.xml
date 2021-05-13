@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="webp" type="Image" />
-      <mapping pattern="Dangerfile" type="PLAIN_TEXT" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="JenkinsfilePROD" type="PLAIN_TEXT" />
+      <mapping pattern="Dangerfile" type="PLAIN_TEXT" />
       <mapping ext="stencil" type="PLAIN_TEXT" />
       <mapping ext="xcfilelist" type="PLAIN_TEXT" />
       <mapping ext="plist" type="XML" />
