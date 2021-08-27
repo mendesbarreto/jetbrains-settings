@@ -1,13 +1,13 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="JenkinsfilePROD" type="PLAIN_TEXT" />
       <mapping pattern="Dangerfile" type="PLAIN_TEXT" />
       <mapping ext="stencil" type="PLAIN_TEXT" />
       <mapping ext="xcfilelist" type="PLAIN_TEXT" />
-      <mapping ext="plist" type="XML" />
       <mapping pattern="Fastfile" type="Podfile" />
+      <removed_mapping ext="plist" type="AUTO_DETECTED" />
+      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
