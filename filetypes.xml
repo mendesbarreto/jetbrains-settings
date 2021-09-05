@@ -6,7 +6,9 @@
       <mapping ext="stencil" type="PLAIN_TEXT" />
       <mapping ext="xcfilelist" type="PLAIN_TEXT" />
       <mapping pattern="Fastfile" type="Podfile" />
-      <removed_mapping ext="plist" type="AUTO_DETECTED" />
+      <mapping ext="gpx" type="XML" />
+      <mapping ext="xcscheme" type="XML" />
+      <removed_mapping ext="plist" approved="true" type="AUTO_DETECTED" />
       <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
