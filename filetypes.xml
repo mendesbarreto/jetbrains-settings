@@ -7,13 +7,12 @@
       <mapping pattern="Dangerfile" type="PLAIN_TEXT" />
       <mapping ext="stencil" type="PLAIN_TEXT" />
       <mapping ext="xcfilelist" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping ext="gpx" type="XML" />
       <mapping ext="xcscheme" type="XML" />
-      <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="plist" approved="true" type="AUTO_DETECTED" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="Fastfile" type="Podfile" />
     </extensionMap>
   </component>
