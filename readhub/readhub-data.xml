@@ -13007,6 +13007,12 @@
                 <option name="id" value="17900001" />
               </RHBaseItem>
               <RHBaseItem>
+                <option name="id" value="17908816" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="17908803" />
+              </RHBaseItem>
+              <RHBaseItem>
                 <option name="id" value="17908767" />
               </RHBaseItem>
               <RHBaseItem>
@@ -13059,12 +13065,6 @@
               </RHBaseItem>
               <RHBaseItem>
                 <option name="id" value="17908534" />
-              </RHBaseItem>
-              <RHBaseItem>
-                <option name="id" value="17908351" />
-              </RHBaseItem>
-              <RHBaseItem>
-                <option name="id" value="17908348" />
               </RHBaseItem>
             </list>
           </value>
@@ -18435,6 +18435,10 @@
               <RHBaseItem>
                 <option name="category" value="TECH_NEWS" />
                 <option name="id" value="17901845" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="17908820" />
               </RHBaseItem>
             </list>
           </value>
