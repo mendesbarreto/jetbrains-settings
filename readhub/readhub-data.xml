@@ -13452,6 +13452,9 @@
                 <option name="id" value="17900001" />
               </RHBaseItem>
               <RHBaseItem>
+                <option name="id" value="17946282" />
+              </RHBaseItem>
+              <RHBaseItem>
                 <option name="id" value="17946238" />
               </RHBaseItem>
               <RHBaseItem>
@@ -13507,9 +13510,6 @@
               </RHBaseItem>
               <RHBaseItem>
                 <option name="id" value="17946009" />
-              </RHBaseItem>
-              <RHBaseItem>
-                <option name="id" value="17946013" />
               </RHBaseItem>
             </list>
           </value>
@@ -19224,6 +19224,10 @@
               <RHBaseItem>
                 <option name="category" value="TECH_NEWS" />
                 <option name="id" value="17939536" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="17946268" />
               </RHBaseItem>
             </list>
           </value>
