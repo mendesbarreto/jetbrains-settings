@@ -14082,64 +14082,64 @@
                 <option name="id" value="17900001" />
               </RHBaseItem>
               <RHBaseItem>
-                <option name="id" value="18002216" />
+                <option name="id" value="18002426" />
               </RHBaseItem>
               <RHBaseItem>
-                <option name="id" value="18002222" />
+                <option name="id" value="18002446" />
               </RHBaseItem>
               <RHBaseItem>
-                <option name="id" value="18002270" />
+                <option name="id" value="18002417" />
               </RHBaseItem>
               <RHBaseItem>
-                <option name="id" value="18002219" />
+                <option name="id" value="18002407" />
               </RHBaseItem>
               <RHBaseItem>
-                <option name="id" value="18002245" />
+                <option name="id" value="18002405" />
               </RHBaseItem>
               <RHBaseItem>
-                <option name="id" value="18002173" />
+                <option name="id" value="18002385" />
               </RHBaseItem>
               <RHBaseItem>
-                <option name="id" value="18002169" />
+                <option name="id" value="18002408" />
               </RHBaseItem>
               <RHBaseItem>
-                <option name="id" value="18002247" />
+                <option name="id" value="18002376" />
               </RHBaseItem>
               <RHBaseItem>
-                <option name="id" value="18002170" />
+                <option name="id" value="18002402" />
               </RHBaseItem>
               <RHBaseItem>
-                <option name="id" value="18002174" />
+                <option name="id" value="18002380" />
               </RHBaseItem>
               <RHBaseItem>
-                <option name="id" value="18002171" />
+                <option name="id" value="18002389" />
               </RHBaseItem>
               <RHBaseItem>
-                <option name="id" value="18002176" />
+                <option name="id" value="18002386" />
               </RHBaseItem>
               <RHBaseItem>
-                <option name="id" value="18002177" />
+                <option name="id" value="18002364" />
               </RHBaseItem>
               <RHBaseItem>
-                <option name="id" value="18002136" />
+                <option name="id" value="18002358" />
               </RHBaseItem>
               <RHBaseItem>
-                <option name="id" value="18002186" />
+                <option name="id" value="18002403" />
               </RHBaseItem>
               <RHBaseItem>
-                <option name="id" value="18002139" />
+                <option name="id" value="18002390" />
               </RHBaseItem>
               <RHBaseItem>
-                <option name="id" value="18002093" />
+                <option name="id" value="18002381" />
               </RHBaseItem>
               <RHBaseItem>
-                <option name="id" value="18002091" />
+                <option name="id" value="18002342" />
               </RHBaseItem>
               <RHBaseItem>
-                <option name="id" value="18002190" />
+                <option name="id" value="18002365" />
               </RHBaseItem>
               <RHBaseItem>
-                <option name="id" value="18002138" />
+                <option name="id" value="18002338" />
               </RHBaseItem>
             </list>
           </value>
@@ -20338,6 +20338,10 @@
               <RHBaseItem>
                 <option name="category" value="TECH_NEWS" />
                 <option name="id" value="18002158" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="18002367" />
               </RHBaseItem>
             </list>
           </value>
