@@ -14517,6 +14517,15 @@
                 <option name="id" value="17900001" />
               </RHBaseItem>
               <RHBaseItem>
+                <option name="id" value="18031105" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="18031128" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="18031212" />
+              </RHBaseItem>
+              <RHBaseItem>
                 <option name="id" value="18031049" />
               </RHBaseItem>
               <RHBaseItem>
@@ -14524,6 +14533,12 @@
               </RHBaseItem>
               <RHBaseItem>
                 <option name="id" value="18031047" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="18031206" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="18031208" />
               </RHBaseItem>
               <RHBaseItem>
                 <option name="id" value="18031032" />
@@ -14560,21 +14575,6 @@
               </RHBaseItem>
               <RHBaseItem>
                 <option name="id" value="18030960" />
-              </RHBaseItem>
-              <RHBaseItem>
-                <option name="id" value="18030962" />
-              </RHBaseItem>
-              <RHBaseItem>
-                <option name="id" value="18030915" />
-              </RHBaseItem>
-              <RHBaseItem>
-                <option name="id" value="18030949" />
-              </RHBaseItem>
-              <RHBaseItem>
-                <option name="id" value="18030917" />
-              </RHBaseItem>
-              <RHBaseItem>
-                <option name="id" value="18030895" />
               </RHBaseItem>
             </list>
           </value>
@@ -21149,6 +21149,26 @@
               <RHBaseItem>
                 <option name="category" value="TECH_NEWS" />
                 <option name="id" value="18030779" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="18031139" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="18031140" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="18031089" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="18031087" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="18031059" />
               </RHBaseItem>
             </list>
           </value>
