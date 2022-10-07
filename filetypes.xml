@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="JenkinsfilePROD" type="PLAIN_TEXT" />
       <mapping pattern="Dangerfile" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="p8" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
