@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="Accra" type="AUTO_DETECTED" />
+      <mapping pattern="Atlantic" type="AUTO_DETECTED" />
       <mapping pattern="JenkinsfilePROD" type="PLAIN_TEXT" />
       <mapping pattern="Dangerfile" type="PLAIN_TEXT" />
       <mapping ext="p8" type="PLAIN_TEXT" />
