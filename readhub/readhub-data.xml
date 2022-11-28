@@ -24079,6 +24079,10 @@
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TECH_NEWS" />
+                <option name="id" value="18293411" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
                 <option name="id" value="18293292" />
               </RHBaseItem>
               <RHBaseItem>
@@ -24152,10 +24156,6 @@
               <RHBaseItem>
                 <option name="category" value="TECH_NEWS" />
                 <option name="id" value="18287528" />
-              </RHBaseItem>
-              <RHBaseItem>
-                <option name="category" value="TECH_NEWS" />
-                <option name="id" value="18287508" />
               </RHBaseItem>
             </list>
           </value>
